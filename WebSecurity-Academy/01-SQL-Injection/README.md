@@ -41,7 +41,8 @@ Additional protections include:
 
 ✅ Successfully solved the PortSwigger Web Security Academy lab.
 
-![Lab Solved](lab-solved.png)
+<img width="1320" height="240" alt="image" src="https://github.com/user-attachments/assets/24fd822d-3c52-47bf-b8e3-83322664864e" />
+
 
 ## Key Takeaway
 This lab helped me understand how SQL injection vulnerabilities occur and how Burp Suite can be used to identify and validate them in an authorized testing environment.
