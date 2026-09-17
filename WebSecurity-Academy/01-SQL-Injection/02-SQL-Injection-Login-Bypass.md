@@ -24,3 +24,9 @@ function to bypass authentication.
 - Never concatenate untrusted user input into SQL queries
 - Validate input as defense in depth
 - Apply least-privilege permissions to database accounts
+
+<img width="1480" height="205" alt="image" src="https://github.com/user-attachments/assets/e8c047a6-fc0a-4d98-b35e-774711f5e4e2" />
+
+
+
+
